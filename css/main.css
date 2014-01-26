@@ -95,7 +95,7 @@ a:hover {
 }
 
 .posts {
-  border-top: 1px solid #fafbfc;
+  border-top: 5px solid #fafbfc;
   margin-top: 1em;
   padding-top: 1.5em;
   padding-bottom: 1.25em;
@@ -103,7 +103,7 @@ a:hover {
 
 .footer {
   font-size: 0.95em;
-  border-top: 1px solid #fafbfc;
+  border-top: 5px solid #fafbfc;
   padding-top: 1.25em;
   padding-bottom: 1.5em;
   overflow: hidden;
@@ -146,7 +146,6 @@ a:hover {
 
 .post h2 {
   margin-top: 1.25em;
-  margin-left: -0.5em;
   margin-bottom: 1.25em;
 }
 

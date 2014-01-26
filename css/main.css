@@ -96,7 +96,7 @@ a:hover {
 }
 
 .posts {
-  border-top: 1px solid #e7e7e7;
+  border-top: 1px solid white;
   margin-top: 1em;
   padding-top: 1.5em;
   padding-bottom: 1.25em;
@@ -104,7 +104,7 @@ a:hover {
 
 .footer {
   font-size: 0.95em;
-  border-top: 1px solid #e7e7e7;
+  border-top: 1px solid white;
   padding-top: 1.25em;
   padding-bottom: 1.5em;
   overflow: hidden;
@@ -220,7 +220,7 @@ a:hover {
   width: 14%;
   padding-left: 11em;
   padding-right: 2.125em;
-  border-right: 1px solid #e7e7e7;
+  border-right: 1px solid white;
 }
 
 .content {
@@ -258,7 +258,7 @@ a:hover {
   display: none;
   padding: 15px 5px 0px 0px;
   margin-bottom: 10px;
-  border-bottom: 1px solid #e7e7e7;
+  border-bottom: 1px solid white;
 }
 
 #sidebar-button:active,
@@ -275,7 +275,7 @@ a:hover {
 .colophon {
   margin-top: 1.5em;
   margin-bottom: 1.45em;
-  border-top: 1px dotted #e7e7e7;
+  border-top: 1px dotted white;
 }
 
 .colophon p {

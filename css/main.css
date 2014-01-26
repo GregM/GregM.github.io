@@ -17,7 +17,6 @@ html, body {
 
 body {
   color: #333;
-  background-color: #fafbfc;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
   font-size: 0.85em;
@@ -218,12 +217,14 @@ a:hover {
 .sidebar {
   float: left;
   width: 14%;
+  background-color: white;
   padding-left: 11em;
   padding-right: 2.125em;
   border-right: 1px solid white;
 }
 
 .content {
+  background-color: #fafbfc;
   padding-left: 2.125em;
 }
 

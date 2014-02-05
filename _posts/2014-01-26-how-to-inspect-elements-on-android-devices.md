@@ -1,7 +1,6 @@
 ---
 layout: post
 title: How To Inspect Elements On Android Devices
-cover: cover.jpg
 date:   2014-01-26
 categories: posts
 ---

@@ -48,6 +48,7 @@ a:hover {
 /*
 /*****************************************************************************/
 #logo {
+  border-radius: 75px;
   max-width: 128px;
 }
 
@@ -96,7 +97,7 @@ a:hover {
 
 .posts {
   border-top: 5px solid #fafbfc;
-  margin-top: 1em;
+  margin-top: 2.5em;
   padding-top: 1.5em;
   padding-bottom: 1.25em;
 }
@@ -232,6 +233,16 @@ a:hover {
   text-align: center;
   padding-top: 2.5em;
   font-size: 1.1em;
+}
+
+.bio {
+  text-align: center;
+  padding-top: 2.5em;
+  font-size: 1.2em;
+}
+
+.bio ul {
+  list-style: none;
 }
 
 .post-link {

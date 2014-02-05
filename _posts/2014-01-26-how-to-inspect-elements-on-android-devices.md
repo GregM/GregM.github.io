@@ -5,8 +5,6 @@ date:   2014-01-26
 categories: posts
 ---
 
-## Inspect Elements On Android’s Internet Browser
-
 From a Gilt Tech post I wrote in May of 2013:
 
 I’m building Gilt’s new Android app and a good portion of the website is an Android WebView. As you may or may not know, this WebView uses the default Android Internet Browser to render webpages. You probably know this app best by its logo in the lower right hand corner of this screenshot:

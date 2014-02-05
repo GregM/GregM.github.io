@@ -32,7 +32,7 @@
           <ul class="posts-list">
             {% for post in site.posts %}
               <li class="post-link">
-                <a class="post-title" href="{{ post.url }}">
+                <a class="post-title" href="{{ post.url }}#disqus_thread">
                   <span class="post-date">{{ post.date | date_to_string }}</span>
                   {{ post.title }}
                 </a>
@@ -61,6 +61,18 @@
         })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
         ga('create', 'UA-9946031-1', 'gregorymazurek.com');
         ga('send', 'pageview');
+    </script>
+    <script type="text/javascript">
+      /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+      var disqus_shortname = 'gregorymazureksblog'; // required: replace example with your forum shortname
+
+      /* * * DON'T EDIT BELOW THIS LINE * * */
+      (function () {
+          var s = document.createElement('script'); s.async = true;
+          s.type = 'text/javascript';
+          s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+          (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+      }());
     </script>
   </body>
 </html>

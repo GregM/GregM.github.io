@@ -64,6 +64,10 @@ Let your CSS inspiration do the rest!
        x-webkit-airplay="allow" 
        src=""></video>
 
+In Google Canary, the above video player looks like this:
+
+![Google Canary Video Player](/images/2014-02-06-web-components-example/03.png)
+
 Here are the styles:
 
 ```

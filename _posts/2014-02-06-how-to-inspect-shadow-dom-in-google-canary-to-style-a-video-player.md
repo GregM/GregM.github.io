@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Inspect Shadow Dom In Google Canary To Style A Video Player
-date:   2014-02-05
+date:   2014-02-06
 categories: posts
 ---
 

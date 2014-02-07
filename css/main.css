@@ -41,6 +41,12 @@ a:hover {
   color: #555;
 }
 
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -128,11 +134,12 @@ a:hover {
 }
 
 #info-container {
-  margin-top: 3em;
+  margin-top: 5em;
+  margin-bottom: 1.5em;
 }
 
 #title {
-  color: #494949;
+  color: brown;
   margin-bottom: 0.35em;
   font-size: 3.5em;
   text-transform: uppercase;
@@ -181,7 +188,7 @@ a:hover {
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
-  padding: 0 .2em;
+  padding: .3em;
 }
 
 .post pre code {
@@ -277,6 +284,11 @@ a:hover {
   opacity: 0.7;
 }
 
+.cta-mailing-list {
+  color: brown;
+  font-weight: bold;
+}
+
 /*****************************************************************************/
 /*
 /* Colophon
@@ -293,4 +305,14 @@ a:hover {
   margin-top: 1.25em;
   font-size: 0.95em;
   color: #777;
+}
+
+/*****************************************************************************/
+/*
+/* Disqus
+/*
+/*****************************************************************************/
+
+#disqus_thread {
+  margin-top: 5em;
 }

@@ -124,6 +124,7 @@ blockquote {
 /*****************************************************************************/
 
 #date {
+  font-weight: bold;
   padding-top: 0.5em;
   margin-bottom: 2em;
 }
@@ -136,14 +137,18 @@ blockquote {
 #info-container {
   margin-top: 5em;
   margin-bottom: 1.5em;
+  max-width: 725px;
 }
 
 #title {
   color: brown;
-  margin-bottom: 0.35em;
+  margin-bottom: 0.5em;
   font-size: 3.5em;
   text-transform: uppercase;
   line-height: 1em;
+  border-bottom: 1px solid peru;
+  padding-bottom: 0.5em;
+  margin-bottom: 0.5em;
 }
 
 .post {
@@ -315,4 +320,5 @@ blockquote {
 
 #disqus_thread {
   margin-top: 5em;
+  width: 724px;
 }

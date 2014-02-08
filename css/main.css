@@ -23,7 +23,7 @@ body {
 }
 
 a {
-  color: #8085C1;
+  color: brown;
   text-decoration: none;
   border: none;
 }
@@ -101,7 +101,7 @@ blockquote {
 }
 
 .posts {
-  border-top: 5px solid #fafbfc;
+  border-top: 1px solid peru;
   margin-top: 2.5em;
   padding-top: 1.5em;
   padding-bottom: 1.25em;
@@ -109,7 +109,7 @@ blockquote {
 
 .footer {
   font-size: 0.95em;
-  border-top: 5px solid #fafbfc;
+  border-top: 1px solid peru;
   padding-top: 1.25em;
   padding-bottom: 1.5em;
   overflow: hidden;
@@ -229,9 +229,9 @@ blockquote {
 .sidebar {
   float: left;
   width: 14%;
-  background-color: white;
-  padding-left: 11em;
-  padding-right: 2.125em;
+  background-color: blanchedalmond;
+  padding-left: 8em;
+  padding-right: 6em;
   border-right: 1px solid white;
 }
 
@@ -262,8 +262,7 @@ blockquote {
 
 .post-title {
   font-weight: 600;
-  font-size: 1.4em;
-  text-transform: uppercase;
+  font-size: 1em;
 }
 
 .post-date {

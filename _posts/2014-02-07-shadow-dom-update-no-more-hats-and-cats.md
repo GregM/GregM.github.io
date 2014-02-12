@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadow Dom Update: No More Hats And Cats
+title: Shadow Dom Update No More Hats And Cats
 date:   2014-02-07
 categories: posts
 ---
@@ -22,4 +22,3 @@ In Daniel's words:
 > Assessment: this proposal hits on all cylinders - it allows users to write familiar selectors without knowing one-off token names, provides a predictable flow for shadow element styling, and is symmetrical to the JS DOM encapsulation paradigm.
 
 > Example: x-foo /shadow div
-

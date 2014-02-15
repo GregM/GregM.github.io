@@ -236,8 +236,12 @@ blockquote {
 }
 
 .content {
-  background-color: #fafbfc;
+  background-color: white;
   padding-left: 2.125em;
+}
+
+.content-wrapper {
+  background-color: blanchedalmond;
 }
 
 .header {

@@ -4,6 +4,7 @@ title: Shadow Dom Update No More Hats And Cats
 date:   2014-02-07
 categories: posts
 ---
+<a href="https://news.ycombinator.com/submit" class="hn-button" data-title="Shadow Dom Update No More Hats And Cats" data-count="horizontal">Vote on Hacker News</a>
 
 The challenge with working with bleeding-edge technologies is that sometimes things change a lot between a beta release and a production release. Daniel Buchner of Mozilla wrote a great email to www-style with the subject *::Parts of cats and hats everywhere, slashed by shadow* that explains how the group arrived at the most recent proposal for styling elements in the Shadow DOM.
 

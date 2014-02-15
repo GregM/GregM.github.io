@@ -5,6 +5,8 @@ date:   2014-02-06
 categories: posts
 ---
 
+<a href="https://news.ycombinator.com/submit" class="hn-button" data-title="How To Inspect Shadow Dom In Google Canary To Style A Video Player" data-count="horizontal">Vote on Hacker News</a>
+
 <style>
 .video-demo ^ div {
 	background: beige;

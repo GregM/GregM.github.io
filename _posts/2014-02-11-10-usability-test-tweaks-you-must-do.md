@@ -5,6 +5,8 @@ date:   2014-02-11
 categories: posts
 ---
 
+<a href="https://news.ycombinator.com/submit" class="hn-button" data-title="10 Usability Test Tweaks You Must Do" data-count="horizontal">Vote on Hacker News</a>
+
 ##10. Test Your Competition
 
 It's pretty obvious that you need to usability test whatever feature you've just created. But, you're likely to learn a lot if you usability test a similar feature that your competition has in the wild. When you do this, you can begin to understand how your users use your competitor's product.

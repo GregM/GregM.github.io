@@ -5,6 +5,7 @@ date:   2014-02-05
 categories: posts
 ---
 
+<a href="https://news.ycombinator.com/submit" class="hn-button" data-title="10 Surefire Ways To Lose A Great Software Engineer" data-count="horizontal">Vote on Hacker News</a>
 
 There's always a lot of chatter about how to hire well but less chatter about how to retain well. Hiring is tough but once you find someone amazing, you now have to worry about keeping the engineer happy. It's not that hard but often overlooked, especially as companies grow and change in different directions. Here, I present to you 10 surefire ways to lose your great engineer.
 

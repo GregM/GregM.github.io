@@ -5,6 +5,8 @@ date:   2014-01-26
 categories: posts
 ---
 
+<a href="https://news.ycombinator.com/submit" class="hn-button" data-title="How To Inspect Elements On Android Devices" data-count="horizontal">Vote on Hacker News</a>
+
 From a Gilt Tech post I wrote in May of 2013:
 
 I’m building Gilt’s new Android app and a good portion of the website is an Android WebView. As you may or may not know, this WebView uses the default Android Internet Browser to render webpages. You probably know this app best by its logo in the lower right hand corner of this screenshot:

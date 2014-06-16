@@ -17,7 +17,7 @@ html, body {
 
 body {
   color: #333;
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: 'Inconsolata',, Arial, sans-serif;
   font-weight: 400;
   font-size: 0.85em;
 }
@@ -229,7 +229,7 @@ blockquote {
 .sidebar {
   float: left;
   width: 14%;
-  background-color: blanchedalmond;
+  background-color: white;
   padding-left: 8em;
   padding-right: 6em;
   border-right: 1px solid white;
@@ -238,10 +238,6 @@ blockquote {
 .content {
   background-color: white;
   padding-left: 2.125em;
-}
-
-.content-wrapper {
-  background-color: blanchedalmond;
 }
 
 .header {
